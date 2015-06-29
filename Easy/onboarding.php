@@ -2,6 +2,7 @@
 /*
  * Onboarding 
  * https://www.codingame.com/
+  * Completed: 100%
  * @Author: Filip Gulan
  * @Contact: raipergm34@gmail.com
  */

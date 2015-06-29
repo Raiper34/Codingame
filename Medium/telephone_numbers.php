@@ -30,6 +30,6 @@ for ($i = 0; $i < $N; $i++)
 		}
 	}
 }
-echo $count;
+echo $count . "\n";
 
 ?>

@@ -2,7 +2,7 @@
 /*
  * Telephone Numbers
  * https://www.codingame.com/
- * Completed: 70%
+ * Completed: 80%
  * @Author: Filip Gulan
  * @Contact: raipergm34@gmail.com
  */
@@ -75,5 +75,5 @@ foreach($nodes as $node) //we iterate trought nodes
 	}
 }
 
-echo($min);
+echo($min . "\n");
 ?>

@@ -35,5 +35,5 @@ for($i = 0; $i < sizeof($Pi) - 1; $i++)
     }
 }
 
-echo $min;
+echo $min . "\n";
 ?>
