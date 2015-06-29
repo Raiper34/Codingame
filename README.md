@@ -1,4 +1,5 @@
 # Codingame
+codingame.com tasks in PHP language.
 
 Easy:
 -----
